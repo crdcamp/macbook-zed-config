@@ -34,9 +34,7 @@
   },
   "languages": {
     "Python": {
-      "code_actions_on_format": {
-        "source.organizeImports.ruff": false,
-      },
+      "format_on_save": false,
     },
   },
   "jupyter": {
