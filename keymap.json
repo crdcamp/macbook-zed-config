@@ -1,0 +1,8 @@
+[
+  {
+    "bindings": {
+      "cmd-shift-u": "editor::ConvertToUpperCase",
+      "cmd-shift-l": "editor::ConvertToLowerCase",
+    },
+  },
+]
