@@ -1,8 +1,8 @@
 [
   {
     "bindings": {
-      "cmd-shift-u": "editor::ConvertToUpperCase",
-      "cmd-shift-l": "editor::ConvertToLowerCase",
+      "alt-shift-u": "editor::ConvertToUpperCase",
+      "alt-shift-l": "editor::ConvertToLowerCase",
       "cmd-enter": "repl::Run",
       "cmd-shift-l": "repl::ClearOutputs",
     },
