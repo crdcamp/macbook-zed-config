@@ -3,14 +3,13 @@
     "bindings": {
       "alt-shift-u": "editor::ConvertToUpperCase",
       "alt-shift-l": "editor::ConvertToLowerCase",
-      "cmd-enter": "repl::Run",
-      "cmd-shift-l": "repl::ClearOutputs",
     },
   },
   {
     "context": "((Editor && jupyter) && !ContextEditor)",
     "bindings": {
       "cmd-enter": "repl::Run",
+      "cmd-shift-l": "repl::ClearOutputs",
     },
   },
   {
