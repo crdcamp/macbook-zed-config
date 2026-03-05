@@ -7,9 +7,6 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "edit_predictions": {
-    "provider": "none",
-  },
   "title_bar": {
     "show_sign_in": false,
   },
@@ -40,5 +37,8 @@
     "kernel_selections": {
       "python": "conda-env",
     },
+  },
+  "features": {
+    "edit_prediction_provider": "none",
   },
 }
