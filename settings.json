@@ -56,4 +56,15 @@
       "python": "conda-env",
     },
   },
+},
+"lsp": {
+  "pyright": {
+    "settings": {
+      "python": {
+        "analysis": {
+          "autoImportCompletions": false
+        }
+      }
+    }
+  }
 }
